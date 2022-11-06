@@ -1,7 +1,7 @@
 ﻿FirefoxFQ，火狐firefox一键翻墙包
 ------------------------
 
-10个不同的翻墙通道，包括clash、clashB、v2ray、v2rayb、v2free、SSR、SS、Brook、Lantern、psiphon。所有工具全部内置免费服务器，长期更新。支持我们请点右上角star按赞。
+9个不同的翻墙通道，包括clash、clashB、v2ray、v2rayb、v2go、SSR、SS、Lantern、psiphon。所有工具全部内置免费服务器，长期更新。支持我们请点右上角star按赞。
 
 **注意**：软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与共匪金盾工程还有千丝万缕的关系!可以使用[windows自带的defender杀毒软件](https://docs.microsoft.com/zh-cn/microsoft-365/security/defender-endpoint/microsoft-defender-antivirus-windows?view=o365-worldwide)。
 
@@ -9,7 +9,7 @@
 
 ### 更新通告
 
-**2021年10月21日更新公告 更新ip。 win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看。** 第一次使用SSR/ss/v2ray时，或许需要安装 [NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)或更高版本 ，不然无法正常运行。 使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。第一次使用或发现不好用的时候记得按照使用说明更新一下ip。
+**2022年10月16日更新公告 更新ip，若干程序更新。 win10系统的防火墙可能会起网络阻碍作用，如果多款工具更新ip后无法正常使用，可以把防火墙和杀毒软件关闭再试试看。** 第一次使用SSR/ss/v2ray时，或许需要安装 [NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)或更高版本 ，不然无法正常运行。 使用方法：下载后解压，按文件夹里面的《使用说明（必看）》操作。第一次使用或发现不好用的时候记得按照使用说明更新一下ip。
 
 所有软件的解压密码一律为：jww,压缩包文件的格式是7z，如果解压出错，用7z解压软件来解压（[7z解压软件下载地址](https://www.7-zip.org/download.html)），解压目标路径中不要包含中文或空格，否则可能会出现运行火狐后闪退的情况，比如解压到桌面就有可能出现这个情况。
 
@@ -22,9 +22,9 @@
 
 > 如果下载速度慢，可以用 [FDM下载工具](https://www.freedownloadmanager.org/zh/)来下载，这个FDM下载工具如果官方网站下载慢，也可以百度搜索下载安装。然后用这个FDM来下载这里的软件：
 > 
-> 1.  [FirefoxFQ.7z](https://d1.dns999.cf/FirefoxFQ.7z)
-> 2.  [FirefoxFQ.7z](https://d1.dns888.ml/FirefoxFQ.7z)
-> 3.  [FirefoxFQ.7z](https://d2.dns888.ml/FirefoxFQ.7z)
+> 1.  [FirefoxFQ.7z](https://d1a.v2rss.gq/FirefoxFQ.7z)
+> 2.  [FirefoxFQ.7z](https://d1.v2rss.gq/FirefoxFQ.7z)
+> 3.  [FirefoxFQ.7z](https://d2.v2rss.gq/FirefoxFQ.7z)
 > 4.  [更多翻墙软件](https://github.com/bannedbook/fanqiang/wiki)
 
 #### 本页面短网址：https://bit.ly/firefoxgo https://git.io/firefox 或 https://x.co/firefq

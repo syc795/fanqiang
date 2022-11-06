@@ -4,7 +4,7 @@
 <p>简而言之，SFTP 不需要在 VPS 上额外安装任何东西，我们购买VPS后就能直接使用 SFTP 进行文件传输，非常方便，所以这里介绍基于 SFTP 协议的文件传输方法。</p>
 
 <b>广告插播，如果你觉得自己折腾VPS太麻烦，可以考虑这个服务哦（非本库服务）：</b><br>
-<a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/killgcd/justmysocks/master/images/bwgss.jpg" alt="搬瓦工翻墙 Just My Socks"></a>
+<a href="https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA"><img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg" height="300" alt="V2free翻墙-不限流量、高速稳定、性价比超强"></a>
 
 <h2>一、下载安装 FileZilla</h2>
 <p>FileZilla 是一个开源的 FTP 客户端，也是比较推荐的一个 FTP 客户端，全平台兼容，支持 Windows、Mac 和 Linux 平台，不管你用什么系统，都能使用 FileZilla。除了 FTP 之外，还支持 FTPS 和 SFTP，今天我们要用到的是 SFTP，是目前最方便的向 VPS 传文件的解决方法。</p>
@@ -26,7 +26,7 @@
 <li>密码填写 VPS 的 root 密码。</li>
 </ol>
 
-获取上面的 IP、端口(默认是22，可以不填)、密码等信息，可以参考： [购买Vultr VPS图文教程](https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%B4%AD%E4%B9%B0Vultr%20VPS%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B.md)
+获取上面的 IP、端口(默认是22，可以不填)、密码等信息，可以参考： [购买Vultr VPS图文教程，新用户赠送100美元](https://github.com/bannedbook/fanqiang/blob/master/v2ss/%E8%B4%AD%E4%B9%B0Vultr%20VPS%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B.md)
 <p><strong>这里填写的信息其实就是 SSH 的端口和密码，跟SSH登录完全一样。</strong></p>
 <p>填写完成后，点击连接。</p>
 

@@ -3,16 +3,21 @@
 购买VPS用来翻墙，VPS服务器需要选择国外的，首选国际知名的vultr，速度不错、稳定且性价比高，按小时计费，能够随时开通和删除服务器，新服务器即是新ip。
 
 <b>广告插播，如果你觉得自己折腾VPS太麻烦，可以考虑这个服务哦（非本库服务）：</b><br>
-<a href="https://github.com/killgcd/justmysocks/blob/master/README.md"><img src="https://raw.githubusercontent.com/killgcd/justmysocks/master/images/bwgss.jpg" alt="搬瓦工翻墙 Just My Socks"></a>
+<a href="https://github.com/bannedbook/fanqiang/wiki/V2ray%E6%9C%BA%E5%9C%BA"><img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/v2ss/images/v2free.jpg" height="300" alt="V2free翻墙-不限流量、高速稳定、性价比超强"></a>
 
-Vultr注册地址：https://www.vultr.com/?ref=6999340
-如果以后这个vultr注册地址被墙了，那么就用<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙软件</a>打开，或者用[ss免费账号](https://github.com/bannedbook/fanqiang/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7)
+Vultr注册地址：
+
+https://www.vultr.com/?ref=6999340
+
+如果以后这个vultr注册地址被墙了，那么就用<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙软件</a>打开，或者用[v2ray免费账号](https://github.com/bannedbook/fanqiang/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
 <a href="https://www.vultr.com/?ref=6999340"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
 虽然是英文界面，但是现在的浏览器都有网页翻译功能，鼠标点击右键，选择网页翻译即可翻译成中文。
 
 注册并邮件激活账号，充值后即可购买服务器。充值方式是支付宝或paypal，使用paypal有银行卡（包括信用卡）即可。paypal注册地址：https://www.paypal.com （paypal是国际知名的第三方支付服务商，注册一下账号，绑定银行卡即可购买国外商品）
+
+广告插播:[香港3网直连cn2 vps，很香很香，墙裂推荐，已被墙请翻墙访问](https://lihi1.com/pNSpM)
 
 |价格 | CPU | 内存| SSD硬盘 | 带宽 |  流量/月  | 备注   
 |---------- | --- | ---| --- | --- |  ---  | --- 
@@ -39,7 +44,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr1.PNG)
 
-服务器位置首选美国西海岸的 Los Angeles、或者亚洲的东京、新加坡，当然其它国家地区都可以尝试。建议在[Vultr测速网站](https://sgp-ping.vultr.com/?ref=6999340)选择各个不同的Server Location下载测试一下，然后再根据测试情况选择。 要在自己电脑上 ping 那个ip ，不要在网页上直接ping，ping 的时候，看每一行 里 time ，越小越好；还可以下载那个100m的文件测试数据传输速度。
+服务器位置首选美国西海岸的 Los Angeles、或者亚洲的东京、新加坡，当然其它国家地区都可以尝试。建议在[Vultr测速网站](https://sgp-ping.vultr.com/?ref=8941510-8H)选择各个不同的Server Location下载测试一下，然后再根据测试情况选择。 要在自己电脑上 ping 那个ip ，不要在网页上直接ping，ping 的时候，看每一行 里 time ，越小越好；还可以下载那个100m的文件测试数据传输速度。
 
 ![](https://raw.githubusercontent.com/Alvin9999/pac2/master/vultr/vultr2.PNG)
 
